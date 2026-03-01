@@ -53,7 +53,6 @@ To grow as a Data Science professional by applying machine learning techniques t
 ---
 
 Email: adithyavs326@gmail.com
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
