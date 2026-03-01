@@ -1,82 +1,58 @@
 <h1 align="center">Hi 👋, I'm Adithya v s</h1>
 <h3 align="center">AI / ML data science intern</h3> 
 
-🎓 BCA Graduate | 🤖 Aspiring AI & Data Science Engineer  
-📍 Kerala, India  
+
+# Hi, I'm Adithya
+
+BCA Graduate | Aspiring AI & Data Science Engineer  
+Kerala, India  
 
 ---
 
 ## About Me
 
-I am a passionate and self-driven AI enthusiast with strong foundations in Machine Learning, Data Analysis, and Backend Development.  
-I enjoy building real-world problem-solving systems, especially in healthcare and anomaly detection domains. My goal is to become an industry-ready AI Engineer with strong analytical and system design skills.
+I am passionate about Artificial Intelligence, Machine Learning, and building practical systems that solve real-world problems.  
+
+I focus on strengthening my fundamentals, implementing projects, and continuously improving my analytical thinking and technical skills.
 
 ---
 
-## 🛠️ Technical Skills
+## Skills
 
-**Languages:**  
-Python, SQL, PHP  
-
-**Machine Learning & Data Science:**  
-Pandas, NumPy, Scikit-learn, Matplotlib  
+Python  
+SQL  
+Pandas & NumPy  
+Scikit-learn  
+Machine Learning Fundamentals  
 Model Evaluation (Precision, Recall, F1-Score)  
-
-**Web & Backend:**  
-HTML, CSS, JavaScript  
-PHP & MySQL  
-CRUD Operations  
-
-**Tools & Platforms:**  
+HTML, CSS, PHP  
 Git & GitHub  
-XAMPP  
-VS Code  
 
 ---
 
-## Featured Projects
+## Projects
 
-###  AI Health Assistance System
-- Machine learning-based disease prediction from user symptoms  
-- Implemented data preprocessing and model evaluation  
-- Designed backend logic for healthcare support system  
-
-### Anomaly Detection SOC Dashboard
-- Built anomaly detection system for identifying suspicious activity  
-- Applied evaluation metrics like Precision, Recall & F1-score  
-- Designed dashboard to visualize attacker IP detection  
-
-### GPS-Based Dental Appointment Booking System
-- Developed a web-based platform for booking dental appointments  
-- Integrated GPS-based clinic search functionality  
-- Built admin panel for managing doctors and appointments  
+AI Health Assistance System  
+Anomaly Detection SOC Dashboard  
+GPS-Based Dental Appointment Booking System  
 
 ---
 
 ## Currently Learning
 
-- Advanced Machine Learning  
-- Deep Learning Fundamentals  
-- Data Structures & Algorithms  
-- Model Optimization Techniques  
+Advanced Machine Learning  
+Deep Learning Basics  
+Data Structures & Algorithms  
 
 ---
 
-##  Career Objective
+## Career Goal
 
-To secure a challenging role in AI/Data Science where I can apply machine learning concepts to solve impactful real-world problems and continuously grow as a technical professional.
-
----
-
-## 📫 Connect With Me
-
-📧 Email: adithyavs326@gmail.com  
-🔗 LinkedIn: linkedin.com/in/adithya-v-s-477433321/
+To grow as a Data Science professional by applying machine learning techniques to meaningful real-world applications.
 
 ---
 
- “Turning data into decisions and ideas into intelligent systems.”
-
+Email: adithyavs326@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
