@@ -2,7 +2,6 @@
 <h3 align="center">AI / ML data science intern</h3> 
 
 
-# Hi, I'm Adithya
 
 BCA Graduate | Aspiring AI & Data Science Engineer  
 Kerala, India  
